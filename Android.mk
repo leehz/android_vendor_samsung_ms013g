@@ -49,7 +49,7 @@ LOCAL_CERTIFICATE := platform
 include $(BUILD_PREBUILT)
 
 include $(CLEAR_VARS)
-LOCAL_MODULE := Camera2
+LOCAL_MODULE := Camera
 LOCAL_MODULE_OWNER := samsung
 LOCAL_SRC_FILES := proprietary/app/Camera2/Camera2.apk
 LOCAL_MODULE_TAGS := optional
